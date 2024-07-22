@@ -1,3 +1,9 @@
+#.vs directory
+.vs/*
+imagesViewer/.vs/*
+imagesViewer/bin/*
+imagesViewer/obj/*
+
 # Prerequisites
 *.d
 
